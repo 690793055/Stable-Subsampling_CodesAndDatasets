@@ -54,7 +54,4 @@ NICO_ResNet50_ERM_new.py   Function for the Standard NesNet-50 model.
 NICO_ResNet50_extract.py   Function for the feature extraction NesNet-50 model.
 
 
-
-Contact information: yangjinjing94@163.com.
-
 July 10, 2025
