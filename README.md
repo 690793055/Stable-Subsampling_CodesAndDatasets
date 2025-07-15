@@ -4,7 +4,7 @@ The Codes and datasets of the paper "Stable Subsampling under Model Misspecifica
 
 This is a brief description for the experiments of the USSP algorithm project. This project contains all the programs used in Paper "Stable Subsampling under Model Misspecification and Data Shift", including both uniform design tables and real dataset data.
 The programs are written in MATLAB and can be found in the "Code" folder.
-The uniform design tables used in the project are located in the "uniform design tables" folder. If other uniform design tables are needed, they can be generated using the R package UniCODE.
+The uniform design tables used in the project are located in the "uniform design tables" folder. If other uniform design tables are needed, they can be generated using the R package UniDOE.
 The real dataset data of Section 6.1 and 6.2 are stored in the "Real dataset" folder. This includes China's urban air quality dataset collected from the website https://aqicn.org/city/ and Top 10 cities weather dataset of the United States, which can be obtained from the website https://www.kaggle.com/datasets/shubhamkulkarni01/us-top-10-cities-electricity-and-weather-data.
 The NICO dataset is too large, the reader can find it  from the website  https://github.com/shaoshitong/NICO?tab=readme-ov-file 
 
